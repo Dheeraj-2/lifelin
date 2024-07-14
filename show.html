@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Show More / Show Less Example</title>
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <style>
+      /* Optional styling */
+      .collapse-content {
+        max-height: 100px;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container mt-5">
+      <div class="row">
+        <div class="col-md-8">
+          <div class="collapse-content">
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
+              suscipit, velit ac luctus congue, mi quam tristique libero, a
+              vehicula tortor leo vel ipsum. Duis bibendum mauris eu quam
+              consectetur, eget lobortis odio ultrices. Donec vel sapien vitae
+              magna vulputate sodales. Quisque varius ac orci quis pellentesque.
+              Vestibulum rhoncus, arcu et dictum volutpat, est mi tristique
+              libero, a vehicula tortor leo vel ipsum.
+            </p>
+            <p>
+              Duis bibendum mauris eu quam consectetur, eget lobortis odio
+              ultrices. Donec vel sapien vitae magna vulputate sodales. Quisque
+              varius ac orci quis pellentesque. Vestibulum rhoncus, arcu et
+              dictum volutpat, est mi tristique libero, a vehicula tortor leo
+              vel ipsum.
+            </p>
+          </div>
+          <button
+            class="btn btn-outline-primary mt-2 show-more-btn"
+            onclick="toggleCollapse()"
+          >
+            Show More
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+      function toggleCollapse() {
+        var content = document.querySelector(".collapse-content");
+        var btn = document.querySelector(".show-more-btn");
+
+        if (content.style.maxHeight) {
+          content.style.maxHeight = null;
+          btn.textContent = "Show More";
+        } else {
+          content.style.maxHeight = content.scrollHeight + "px";
+          btn.textContent = "Show Less";
+        }
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,356 @@
+Uri: https://fonts.googleapis.com/css?family=Nunito&display=swap
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTA3iazbXWjgevT5.woff
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\s\nunito\v24\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTA3iazbXWjgevT5.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTk3iazbXWjgevT5.woff
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\s\nunito\v24\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTk3iazbXWjgevT5.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTo3iazbXWjgevT5.woff
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\s\nunito\v24\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTo3iazbXWjgevT5.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3iazbXWjgeg.woff
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\s\nunito\v24\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3iazbXWjgeg.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTs3iazbXWjgevT5.woff
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\s\nunito\v24\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTs3iazbXWjgevT5.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://static.personizely.net/9e6d9a7e7c.js
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\9e6d9a7e7c.js
+Content Type: application/javascript
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/css/compressed.css
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\css\compressed.css
+Content Type: text/css
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/css/style_home.css?v107
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\css\style_home.css
+Content Type: text/css
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/appointment-1.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\appointment-1.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/BetterRelationship_n.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\BetterRelationship_n.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/btn-arrow-brown.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\btn-arrow-brown.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/btn-arrow.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\btn-arrow.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/cropped-yogi-2-180x180.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\cropped-yogi-2-180x180.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/date-white.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\date-white.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/date.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\date.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/desktop-thumb.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\desktop-thumb.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/ExtremelyHighEnergy_n.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\ExtremelyHighEnergy_n.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/faq_reduce.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\faq_reduce.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/fb.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\fb.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/global-1.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\global-1.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/graduate-cap.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\graduate-cap.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/group.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\group.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/healthy-life.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\healthy-life.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/healthy.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\healthy.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/hosts/Akshay-1.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\hosts\Akshay-1.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/hosts/Radhika-1.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\hosts\Radhika-1.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/hosts/Subah_saraf-1.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\hosts\Subah_saraf-1.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img10.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img10.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img12.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img12.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img13.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img13.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img14.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img14.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img15.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img15.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img16.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img16.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img18.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img18.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img19.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img19.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img20.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img20.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img22.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img22.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img23.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img23.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img24.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img24.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img25.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img25.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img26.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img26.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img27.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img27.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img28.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img28.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img29.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img29.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img30.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img30.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img4.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img4.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/img6.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\img6.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/include_1-1.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\include_1-1.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/include_2-1.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\include_2-1.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/include_3-1.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\include_3-1.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/include_5-1.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\include_5-1.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/loader.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\loader.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/loading.gif
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\loading.gif
+Content Type: image/gif
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/logo.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\logo.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/meditation-1.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\meditation-1.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/meditation-spirits.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\meditation-spirits.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/mob-loader.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\mob-loader.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/mobile-thumb.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\mobile-thumb.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/OptimalWeight_n.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\OptimalWeight_n.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/peacefulandcalm_n.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\peacefulandcalm_n.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/Picture5_c.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\Picture5_c.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/ReversDisease.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\ReversDisease.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/rupee-white.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\rupee-white.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/rupee.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\rupee.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/rupees_image.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\rupees_image.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/Satvic_Movement_logo_grey_icon.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\Satvic_Movement_logo_grey_icon.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/sm.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\sm.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/thankyou_loader_desktop.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\thankyou_loader_desktop.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/thankyou_loader_mobile.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\thankyou_loader_mobile.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/thumb_1_1.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\thumb_1_1.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/thumb_2_1.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\thumb_2_1.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/thumb_3_1.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\thumb_3_1.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/thumb_4_1.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\thumb_4_1.webp
+Content Type: image/webp
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/tick.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\tick.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/time-1.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\time-1.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/time-blue.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\time-blue.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/time-white.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\time-white.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/up-down.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\up-down-1.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/woman.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\woman.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/YCB-language.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\YCB-language.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/img/yt.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\yt.png
+Content Type: image/png
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/js/mixpanel.min.js
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\js\mixpanel.min.js
+Content Type: application/javascript
+
+Uri: https://yoga-satvicmovement-org.b-cdn.net/resources/js/optimize.js
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\js\optimize.js
+Content Type: application/javascript
+
+Uri: https://yoga.satvicmovement.org/fb
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\fb.html
+Content Type: text/html
+
+Uri: https://yoga.satvicmovement.org/manifest.json
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\manifest.json
+Content Type: application/json
+
+Uri: https://yogachallenge.in/resources/img/desktop-thumb.webp
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\desktop-thumb-1.webp
+Content Type: image/webp
+
+Uri: https://yogachallenge.in/resources/img/up-down.png
+File Name: C:\Users\user\Documents\SY-LP\yoga.satvicmovement.org\resources\img\up-down.png
+Content Type: image/png
+

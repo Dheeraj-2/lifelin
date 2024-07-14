@@ -1,0 +1,15 @@
+{
+  "short_name": "Satvic Movement",
+  "name": "21 Day Yoga Challenge",
+  "icons": [
+    {
+      "src":"https://y4h5x7j4.stackpathcdn.com/wp-content/uploads/2021/07/cropped-yogi-2-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://www.yogachallenge.in/",
+  "background_color": "#e8e8e8",
+  "Theme_color": "#317EFB",
+  "display": "standalone"
+}
